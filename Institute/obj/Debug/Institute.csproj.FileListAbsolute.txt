@@ -1,0 +1,30 @@
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\bin\Debug\Institute.exe.config
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\obj\Debug\Institute.institute.resources
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Properties.Resources.resources
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\obj\Debug\Institute.csproj.GenerateResource.Cache
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\bin\Debug\Institute.exe
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\bin\Debug\Institute.pdb
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\obj\Debug\Institute.exe
+c:\users\anwar-pc\documents\visual studio 2013\Projects\Institute\Institute\obj\Debug\Institute.pdb
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Departments.resources
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Employees.resources
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Employees_Jobs.resources
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Students.resources
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Subjects.resources
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.Teachers.resources
+C:\Users\Anwar-PC\Documents\Visual Studio 2013\Projects\Institute\Institute\obj\Debug\Institute.csprojResolveAssemblyReference.cache
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\bin\Debug\Institute.exe.config
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\bin\Debug\Institute.exe
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\bin\Debug\Institute.pdb
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.csprojResolveAssemblyReference.cache
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Departments.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Employees.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Employees_Jobs.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.institute.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Properties.Resources.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Students.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Subjects.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.Teachers.resources
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.csproj.GenerateResource.Cache
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.exe
+E:\Anwar\Documents\College stuff\New folder\My Projects\مشروع قواعد البيانات\Institute\Institute\obj\Debug\Institute.pdb
